@@ -1,0 +1,12 @@
+.header{
+    font-style: italic;
+    width: 90%;
+    font-size: 23px;
+}
+div{
+    width: 75%;
+}
+#Login_Button {
+    font-size: 18px;
+    width: 10%;
+}
